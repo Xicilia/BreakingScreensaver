@@ -1,0 +1,7 @@
+{
+"resourceName": "$asDirectory",
+
+"idle": "idle.png",
+"wallhit": "wall.png",
+"cornerhit": "corner.jpg"
+}

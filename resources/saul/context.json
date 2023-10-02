@@ -1,0 +1,9 @@
+{
+    "resourceName": "$asDirectory",
+
+    "idle": "idle.jpg",
+    "wallhit": "wallhit.gif",
+    "cornerhit": "cornerhit.gif",
+
+    "resetAnimation": false
+}
